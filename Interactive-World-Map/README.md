@@ -3,6 +3,6 @@ Project Goal: Utilizing flight arrival data from the World Bank, create an inter
 
 Data Source: https://data.worldbank.org/indicator/ST.INT.ARVL
 
-Here's the map below: 
+Here's the map visualized below:
 
 
