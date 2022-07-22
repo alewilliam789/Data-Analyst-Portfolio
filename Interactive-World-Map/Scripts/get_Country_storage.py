@@ -5,7 +5,6 @@ def get_country_storage():
     import numpy as np
     import datetime
 
-
     # load data and clean
     file_name = "Arrival_Numbers.csv"
     df = pd.read_csv(file_name)
@@ -21,11 +20,25 @@ def get_country_storage():
     for row in mr_array:
         Country_data = row
         Country_name = Country_data[0]
-        Country_storage[Country_name] = [Country_data[1:], [datetime.datetime(year, 1, 1) for year in range(1995, 2020)], None, None, None]
+        Country_storage[Country_name] = [Country_data[1:],
+                                         [datetime.datetime(year, 1, 1) for year in range(1995, 2020)], None, None,
+                                         None, None, None, None]
 
     # Load data for latitude and longitude
     file_name2 = "Lat_Long.csv"
     df2 = pd.read_csv(file_name2)
+
+    # Add percentage growth for each window to each country
+    for key in Country_storage:
+        Country_storage[key][5] = round(
+            (((Country_storage[key][0][24] - Country_storage[key][0][19]) / Country_storage[key][0][
+                19]) * 100), 1)
+        Country_storage[key][6] = round(
+            (((Country_storage[key][0][24] - Country_storage[key][0][14]) / Country_storage[key][0][
+                14]) * 100), 1)
+        Country_storage[key][7] = round(
+            (((Country_storage[key][0][24] - Country_storage[key][0][0]) / Country_storage[key][0][
+                0]) * 100), 1)
 
     # Add latitude and longitude points to each country still in database
     for key in Country_storage:
@@ -43,8 +56,8 @@ def get_country_storage():
             Country_storage[key][3] = latty_long.iat[0, 2]
         else:
             pass
-        # Create html file name to store iframes for each graph.
-        Country_storage[key][4] = key+'.html'
+        # Create html file name to store iframes for the graph.
+        Country_storage[key][4] = key + '.html'
     # Create list of countries that don't have any coordinates
     delete = [key for key in Country_storage if Country_storage[key][2] is None]
 
