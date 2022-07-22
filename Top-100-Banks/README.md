@@ -3,5 +3,5 @@ Project Goal: Provide ad-hoc analysis on data from the Top 100 Banks in 2017 in 
 
 Data Source: https://data.world/arthur/banks/workspace/file?filename=top50banks2017-03-31.xlsx 
 
-View it here to make sure you see all the plots: 
+View it here to make sure you see all the plots: https://nbviewer.org/github/alewilliam789/Data-Analyst-Portfolio/blob/main/Top-100-Banks/Notebooks/top_100_banks.ipynb
 
