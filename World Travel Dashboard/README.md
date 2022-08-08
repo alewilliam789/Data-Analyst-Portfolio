@@ -4,4 +4,4 @@ Project Goal: Create an app/dashboard that allows a traveller to look at specifi
 Data Source: https://data.worldbank.org/indicator/ST.INT.ARVL,https://www.travelsafe-abroad.com/countries/, www.planetware.com, www.thecrazytourist.com, https://www.theglobaleconomy.com/rankings/hotel_and_restaurant_prices_wb/
 
 Here's the link to see the full dashboard:
-https://rawcdn.githack.com/alewilliam789/Data-Analyst-Portfolio/62759f617c26fa14559704740905314c60619445/World%20Travel%20Dashboard/HTML/arrival_analysis.html
+https://rawcdn.githack.com/alewilliam789/Data-Analyst-Portfolio/fa580bf426612706624863bb407b968e9e3c318f/World%20Travel%20Dashboard/HTML/arrival_analysis.html
