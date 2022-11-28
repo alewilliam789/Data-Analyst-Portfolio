@@ -1,0 +1,193 @@
+Country Name,Safety Index,Cost Index
+Venezuela,16.840000000000003,
+Papua New Guinea,19.739999999999995,
+Afghanistan,21.810000000000002,
+South Africa,24.629999999999995,62.93
+Honduras,25.340000000000003,47.1
+Trinidad And Tobago,29.430000000000007,
+Guyana,31.069999999999993,65.03
+Jamaica,31.709999999999994,62.09
+El Salvador,32.41,65.92
+Syria,32.53,
+Peru,32.760000000000005,72.12
+Brazil,33.209999999999994,90.79
+Angola,33.34,79.22
+Somalia,33.59,
+Cameroon,34.739999999999995,54.39
+Namibia,35.03,67.54
+Nigeria,35.91,39.0
+Argentina,35.91,89.24
+Bangladesh,36.94,40.86
+Mozambique,37.06,43.2
+Bahamas,37.09,118.98
+Puerto Rico,38.23,
+Dominican Republic,38.51,
+Us Virgin Islands,38.76,
+Libya,39.41,
+Zimbabwe,40.39,73.27
+Colombia,41.29,60.78
+Bolivia,41.56,43.09
+North Korea,41.93,
+Guatemala,42.01,
+Ecuador,42.13,118.35
+Belarus,42.82,66.36
+Fiji,42.91,63.21
+Chile,43.49,104.37
+Kenya,43.67,38.81
+Kyrgyzstan,44.12,68.42
+Tanzania,44.21,30.13
+Uganda,44.41,59.97
+Maldives,44.87,50.58
+Mongolia,45.54,46.16
+France,45.61,147.23
+Malaysia,45.63,39.3
+Mexico,46.1,63.31
+Costa Rica,46.14,90.98
+Botswana,46.3,93.59
+Algeria,46.75,33.93
+Kazakhstan,46.96,67.06
+Uruguay,47.87,114.64
+Belize,48.03,66.3
+Cambodia,48.28,41.38
+Iran,50.25,74.6
+Ethiopia,50.58,33.08
+Paraguay,50.99,60.5
+Mauritius,51.22,86.66
+Sweden,51.23,182.92
+United States,51.59,
+Nicaragua,51.9,56.13
+Greece,52.03,103.71
+Myanmar,52.17,
+Moldova,52.57,64.37
+Morocco,52.63,57.5
+Albania,52.99,50.78
+Barbados,53.06,124.83
+Belgium,53.29,149.13
+Zambia,53.36,47.62
+United Kingdom,53.38,
+Egypt,53.39,26.44
+Lebanon,53.41,
+Ukraine,53.43,32.17
+Ghana,53.75,49.72
+Italy,53.76,131.33
+Iraq,53.83,67.87
+Indonesia,53.94,40.66
+Ireland,54.13,151.45
+Vietnam,54.24,35.01
+Sudan,54.41,28.8
+Australia,55.17,161.57
+New Zealand,55.39,140.97
+India,55.43,42.25
+Tunisia,56.06,37.86
+Malta,56.28,101.62
+Canada,56.37,148.32
+Panama,56.39,80.55
+Kosovo (Disputed Territory),56.59,
+Bosnia And Herzegovina,57.29,
+Philippines,57.64,48.52
+Palestine,58.09,
+Pakistan,58.44,41.76
+Jordan,58.99,63.76
+North Macedonia,59.03,53.86
+Sri Lanka,59.03,49.53
+Montenegro,59.61,73.7
+Turkey,60.11,78.22
+Russia,60.68,80.01
+Thailand,61.08,40.4
+Latvia,61.51,102.56
+Bulgaria,61.63,56.23
+Serbia,61.82,63.25
+Nepal,62.23,29.76
+Germany,62.99,137.9
+Luxembourg,64.42,141.12
+Spain,65.03,107.29
+Hungary,66.09,75.87
+Uzbekistan,66.32,
+Norway,66.49000000000001,206.57
+Kuwait,66.99000000000001,102.9
+Lithuania,67.45,86.66
+Romania,67.5,66.04
+Israel,67.82,176.01
+Poland,67.87,92.4
+Azerbaijan,68.27,59.3
+Cuba,68.28,
+Portugal,68.47,96.82
+Cyprus,68.94,115.34
+Slovakia,69.46000000000001,94.58
+Brunei,70.45,50.86
+China,71.18,75.24
+Netherlands,72.43,141.25
+Singapore,72.78,70.37
+Finland,73.16,160.6
+Austria,73.18,132.87
+Denmark,73.66,189.75
+South Korea,73.87,145.92
+Czech Republic,74.22,
+Rwanda,74.46000000000001,53.87
+Georgia,74.75,60.71
+Bahrain,75.05,79.28
+Monaco,75.08,
+Saudi Arabia,75.38,60.33
+Iceland,75.7,232.37
+Estonia,75.86,106.71
+Croatia,76.01,92.46
+Slovenia,76.83,102.99
+Japan,77.76,129.06
+Switzerland,77.88,203.18
+Armenia,78.25,68.35
+Hong Kong,78.38,88.62
+Oman,80.28,58.29
+Isle Of Man,81.72,
+Taiwan,83.85,56.02
+United Arab Emirates,85.13,
+Qatar,85.85,94.27
+Bermuda,,198.0
+Seychelles,,160.0
+UK,,132.0
+St. Vincent & ...,,131.0
+USA,,128.0
+Tr.&Tobago,,121.0
+Saint Lucia,,114.0
+Ant.& Barb.,,106.0
+Aruba,,97.0
+UA Emirates,,93.0
+C.A. Republic,,86.0
+Montserrat,,85.0
+Eq. Guinea,,80.0
+Djibouti,,76.0
+Czechia,,76.0
+G.-Bissau,,75.0
+Senegal,,71.0
+Grenada,,70.0
+Domin. Rep.,,70.0
+Togo,,69.0
+R. of Congo,,69.0
+Bosnia & Herz.,,69.0
+Mali,,67.0
+DR Congo,,67.0
+Swaziland,,67.0
+Cape Verde,,65.0
+Tajikistan,,64.0
+Dominica,,63.0
+Comoros,,63.0
+Gabon,,60.0
+Lesotho,,59.0
+Laos,,58.0
+Suriname,,57.0
+S.T.&Principe,,57.0
+Benin,,57.0
+Liberia,,55.0
+Ivory Coast,,50.0
+Niger,,49.0
+Malawi,,49.0
+Chad,,46.0
+Gambia,,46.0
+Haiti,,45.0
+Burkina Faso,,45.0
+Burundi,,43.0
+Mauritania,,39.0
+Burma,,37.0
+Sierra Leone,,37.0
+Bhutan,,34.0
+Guinea,,33.0
+Madagascar,,33.0

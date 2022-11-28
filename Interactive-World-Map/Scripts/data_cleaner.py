@@ -10,6 +10,8 @@ def na_vacuum(df):
     df = df.dropna(axis=0, how='any')
     return df
 
+def fill_blanks(df):
+    df =
 
 
 
