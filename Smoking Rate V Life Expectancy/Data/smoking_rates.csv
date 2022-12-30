@@ -1,0 +1,149 @@
+Country,Subregion,Female Smoking Rate,Male Smoking Rate,Total Smoking Rate
+Nauru,Micronesia,52.6,51.7,52.1
+Kiribati,Micronesia,35.5,68.6,52
+Tuvalu,Polynesia,31.4,66,48.7
+Myanmar,South-Eastern Asia,20.8,70.2,45.5
+Chile,South America,65,40.3,49.2
+Lebanon,Western Asia,119,35.9,49.4
+Serbia,Southern Europe,41.2,40,40.6
+Bangladesh,Southern Asia,8,17.7,60.6
+Greece,Southern Europe,32.8,45.3,39.1
+Bulgaria,Eastern Europe,35.3,42.5,38.9
+Bosnia and Herzegovina,Southern Europe,30.2,46.3,38.3
+Timor-Leste,South-Eastern Asia,10.7,65.8,38.2
+Indonesia,South-Eastern Asia,5.3,70.5,37.9
+Solomon Islands,Melanesia,19.9,55.9,37.9
+Laos,South-Eastern Asia,15.5,60.1,37.8
+Latvia,Northern Europe,24,49.5,36.7
+Cyprus,Eastern Europe,158,23.3,50.1
+Croatia,Southern Europe,35.3,37.9,36.6
+France,Western Europe,33.2,36,34.6
+Andorra,Southern Europe,29.5,38.1,33.8
+Slovakia,Eastern Europe,26,38.6,32.3
+Nepal,Southern Asia,49,15.3,48.6
+South Africa,Southern Africa,24,16,46.8
+Hungary,Eastern Europe,26.4,34.8,30.6
+Estonia,Northern Europe,24.1,36.9,30.5
+Tonga,Polynesia,12.1,48.4,30.2
+Georgia,Western Asia,5.2,54.2,29.7
+Lesotho,Southern Africa,147,4.6,54.7
+Turkey,Western Asia,18,17,41.5
+Albania,Southern Europe,7.9,50.5,29.2
+Austria,Western Europe,27.7,30.4,29.1
+Madagascar,Eastern Africa,50,11,46.9
+Samoa,Polynesia,16.9,40.8,28.9
+Russia,Eastern Europe,15.7,40.9,28.3
+Germany,Western Europe,26,29.9,28
+Spain,Southern Europe,26.7,29.1,27.9
+Portugal,Southern Europe,22.4,33.3,27.9
+Kyrgyzstan,Central Asia,110,3.4,52.5
+Mongolia,Eastern Asia,6.2,49.1,27.6
+Cuba,Caribbean,14.5,39.7,27.1
+Lithuania,Northern Europe,19,35.3,27.1
+India,Southern Asia,2,12.1,42
+Mauritius,Eastern Africa,157,5.4,48.3
+Armenia,Western Asia,1.6,51.8,26.7
+Fiji,Melanesia,11.1,42.3,26.7
+Belarus,Eastern Europe,10.4,42.8,26.6
+Cook Islands,Polynesia,21.8,31.3,26.6
+Poland,Eastern Europe,21.6,30.3,26
+Tunisia,Northern Africa,2.9,49.1,26
+Ukraine,Eastern Europe,9.9,41,25.5
+Romania,Eastern Europe,15.8,35.2,25.5
+Israel,Western Asia,98,15.8,35.2
+Moldova,Eastern Europe,6,44.6,25.3
+United States,Northern America,19.3,30.9,25.1
+Switzerland,Western Europe,22.5,27.8,25.1
+Bahrain,Western Asia,154,8.6,41.5
+Malta,Southern Europe,22.5,27.8,25.1
+Belgium,Western Europe,23.1,26.9,25
+China,Eastern Asia,1.8,47.7,24.7
+Kazakhstan,Central Asia,6.6,42.2,24.4
+Philippines,South-Eastern Asia,7,41.6,24.3
+Vanuatu,Melanesia,3.3,45,24.1
+Botswana,Southern Africa,144,10.1,37.3
+Palau,Micronesia,11.2,36.3,23.7
+Ireland,Northern Europe,21.2,26.1,23.6
+Italy,Southern Europe,19.6,27.1,23.4
+Netherlands,Western Europe,21.3,25.6,23.4
+Sri Lanka,Southern Asia,61,2.7,43.2
+Thailand,South-Eastern Asia,3.1,42.5,22.8
+Slovenia,Southern Europe,20.3,25.1,22.7
+Iraq,Western Asia,35,3.6,40.8
+Kuwait,Western Asia,129,3.4,40.9
+South Korea,Eastern Asia,5.9,38.2,22
+Japan,Eastern Asia,10.5,33.2,21.9
+Argentina,South America,33,15.4,28.2
+Malaysia,South-Eastern Asia,1,42.7,21.8
+Cambodia,South-Eastern Asia,6.3,37.4,21.8
+Uruguay,South America,133,18.4,25.2
+Luxembourg,Western Europe,19.8,23.6,21.7
+Egypt,Northern Africa,14,0.4,42.3
+Seychelles,Eastern Africa,196,6.9,35.3
+Yemen,Western Asia,46,9.3,32.5
+Pakistan,Southern Asia,5,6.4,33.6
+Sierra Leone,Western Africa,102,8.5,31
+Finland,Northern Europe,18.3,21,19.7
+Azerbaijan,Western Asia,0.2,39,19.6
+Comoros,Eastern Africa,163,9.2,29.9
+United Kingdom,Northern Europe,17.3,21.1,19.2
+Algeria,Northern Africa,1.4,36.3,18.8
+North Korea,Eastern Asia,0,37.5,18.8
+Denmark,Northern Europe,18.7,18.4,18.6
+United Arab Emirates,Western Asia,97,0.8,35.6
+Namibia,Southern Africa,145,7.4,28.4
+Canada,Northern America,12.4,22.7,17.5
+Saudi Arabia,Western Asia,41,2,31.2
+Brazil,South America,7,11.5,21.5
+Singapore,South-Eastern Asia,5.1,27.8,16.5
+Australia,Australia and New Zealand,13.6,18.7,16.2
+Republic of the Congo,Middle Africa,114,2,30.1
+Burkina Faso,Western Africa,58,7.2,24.9
+Brunei,South-Eastern Asia,2.5,28.6,15.5
+New Zealand,Australia and New Zealand,13.5,16.1,14.8
+Morocco,Northern Africa,0.9,28.6,14.7
+Zambia,Eastern Africa,63,4.4,25
+Mozambique,Eastern Africa,48,5.4,23.4
+Gambia,Western Africa,142,1.5,27.3
+Iran,Southern Asia,17,3.5,24.6
+Qatar,Western Asia,143,1.3,26.7
+Mexico,Central America,10,6.5,21.2
+Zimbabwe,Eastern Africa,74,1.3,26.5
+Iceland,Northern Europe,13.7,13.9,13.8
+Tanzania,Eastern Africa,22,3.1,23.5
+Rwanda,Eastern Africa,76,6.9,19.7
+Ivory Coast,Western Africa,52,1.6,24.3
+Norway,Northern Europe,10.5,15.5,13
+Malawi,Eastern Africa,62,5.2,20.4
+Paraguay,South America,109,4.7,20.8
+El Salvador,Central America,112,2.5,22.8
+Burundi,Eastern Africa,78,6.4,18.8
+Uzbekistan,Central Asia,43,1.3,23.3
+Guyana,South America,164,2.2,22.1
+Mali,Western Africa,59,1.7,22.4
+Kenya,Eastern Africa,27,2.8,20.8
+Chad,Middle Africa,69,2.3,21.3
+Jamaica,Caribbean,4.2,17.7,11
+Bahamas,Caribbean,3.2,18.6,10.9
+Eswatini,Southern Africa,159,2.2,19.1
+Uganda,Eastern Africa,31,4,15.5
+Costa Rica,Central America,124,5,14.7
+Peru,South America,44,3.6,15.6
+Oman,Western Asia,127,0.7,18.5
+Dominican Republic,Caribbean,7.5,11.2,9.4
+Cameroon,Middle Africa,53,1.2,17.5
+Senegal,Western Africa,72,0.7,17.4
+Barbados,Caribbean,2.3,15,8.7
+Niger,Western Africa,54,0.8,16.3
+Liberia,Western Africa,121,1.8,15.1
+Haiti,Caribbean,3.3,13.3,8.3
+Sweden,Northern Europe,8,6,8
+Colombia,South America,28,3.7,12.2
+Togo,Western Africa,100,1.6,13.5
+Benin,Western Africa,77,1.9,12.4
+Eritrea,Eastern Africa,132,0.3,14.2
+Panama,Central America,128,2.7,11.1
+Sao Tome and Principe,Middle Africa,187,1.4,9.5
+Nigeria,Western Africa,6,0.5,9
+Ethiopia,Eastern Africa,12,0.9,8.3
+Ghana,Western Africa,47,0.4,7

@@ -1,0 +1,229 @@
+,Country,Life Expectancy (Years)
+0,Afghanistan,52.07
+1,Albania,78.63
+2,Algeria,76.06
+3,American Samoa,75.79
+4,Andorra,82.91
+5,Angola,56.74
+6,Anguilla,81.59
+7,Antigua and Barbuda,76.92
+8,Argentina,78.2
+9,Armenia,75.0
+10,Aruba,77.14
+11,Australia,82.38
+12,Austria,80.65
+13,Azerbaijan,73.03
+14,Bahrain,79.14
+15,Bangladesh,71.8
+16,Barbados,75.66
+17,Belarus,73.07
+18,Belgium,80.42
+19,Belize,69.09
+20,Benin,62.66
+21,Bermuda,81.45
+22,Bhutan,71.09
+23,Bolivia,69.8
+24,Bosnia and Herzegovina,79.81
+25,Botswana,55.22
+26,Brazil,74.3
+27,British Virgin Islands,78.93
+28,Brunei,77.52
+29,Bulgaria,75.25
+30,Burkina Faso,56.2
+31,Burundi,61.79
+32,Cambodia,65.23
+33,Cameroon,56.46
+34,Canada,82.02
+35,Cape Verde,72.66
+36,Cayman Islands,81.43
+37,Central African Republic,53.26
+38,Chad,50.96
+39,Channel Islands,82.02
+40,Chile,78.86
+41,China,75.73
+42,Colombia,76.17
+43,Comoros,64.94
+44,Cook Islands,76.23
+45,Costa Rica,78.87
+46,Cote d'Ivoire,59.29
+47,Croatia,77.18
+48,Cuba,78.86
+49,Cyprus,78.97
+50,Czech Republic,78.41
+51,Democratic Republic of the Congo,58.07
+52,Denmark,79.66
+53,Djibouti,63.97
+54,Dominica,77.35
+55,Dominican Republic,78.44
+56,East Timor,70.15
+57,Ecuador,77.14
+58,Egypt,74.42
+59,El Salvador,75.11
+60,Equatorial Guinea,64.95
+61,Eritrea,64.72
+62,Estonia,74.98
+63,Ethiopia,58.72
+64,Faroe Islands,80.6
+65,Federated States of Micronesia,73.4
+66,Fiji,73.21
+67,Finland,80.21
+68,France,81.86
+69,French Polynesia,77.54
+70,Gabon,52.21
+71,Gaza Strip,75.54
+72,Georgia,78.42
+73,Germany,80.9
+74,Ghana,64.36
+75,Gibraltar,79.7
+76,Greece,80.77
+77,Greenland,72.89
+78,Grenada,74.75
+79,Guam,79.42
+80,Guatemala,72.83
+81,Guernsey,82.68
+82,Guinea,61.49
+83,Guinea-Bissau,51.3
+84,Guyana,69.02
+85,Haiti,64.45
+86,Honduras,71.28
+87,Hong Kong,82.59
+88,Hungary,76.3
+89,Iceland,81.61
+90,India,69.09
+91,Indonesia,73.23
+92,Iran,71.91
+93,Iraq,72.53
+94,Ireland,81.01
+95,Isle of Man,81.39
+96,Israel,81.66
+97,Italy,82.35
+98,Jamaica,73.83
+99,Japan,85.52
+100,Jordan,80.88
+101,Kazakhstan,71.41
+102,Kenya,64.55
+103,Kiribati,66.85
+104,Kosovo,72.17
+105,Kuwait,78.31
+106,Kyrgyzstan,72.05
+107,Laos,64.97
+108,Latvia,74.41
+109,Lebanon,76.51
+110,Lesotho,53.04
+111,Liberia,59.79
+112,Libya,78.82
+113,Liechtenstein,82.01
+114,Lithuania,76.77
+115,Luxembourg,80.5
+116,Macau,84.57
+117,Macedonia,76.61
+118,Madagascar,66.14
+119,Malawi,54.58
+120,Malaysia,75.42
+121,Maldives,76.02
+122,Mali,55.73
+123,Malta,80.6
+124,Marshall Islands,73.61
+125,Mauritania,63.78
+126,Mauritius,76.03
+127,Mayotte,79.06
+128,Mexico,77.78
+129,Moldova,71.29
+130,Monaco,89.37
+131,Mongolia,70.48
+132,Montenegro,78.91
+133,Montserrat,74.83
+134,Morocco,77.28
+135,Mozambique,54.08
+136,Myanmar,67.31
+137,Namibia,51.04
+138,Nauru,67.77
+139,Nepal,68.51
+140,Netherlands,81.52
+141,Netherlands Antilles,78.64
+142,New Caledonia,78.02
+143,New Zealand,81.35
+144,Nicaragua,73.74
+145,Niger,56.2
+146,Nigeria,54.46
+147,North Korea,70.98
+148,Northern Mariana Islands,78.32
+149,Norway,81.01
+150,Oman,75.9
+151,Pakistan,68.39
+152,Palau,73.63
+153,Panama,78.93
+154,Papua New Guinea,67.48
+155,Paraguay,77.55
+156,Peru,74.22
+157,Philippines,73.52
+158,Poland,77.4
+159,Portugal,79.58
+160,Puerto Rico,79.91
+161,Qatar,79.02
+162,Republic of Congo,57.04
+163,Romania,75.58
+164,Russia,68.02
+165,Rwanda,60.93
+166,Saint Barthélemy,79.89
+167,Saint Helena,79.77
+168,Saint Kitts and Nevis,76.15
+169,Saint Lucia,78.12
+170,Saint Martin,79.89
+171,Saint Pierre and Miquelon,80.73
+172,Saint Vincent and the Grenadines,75.75
+173,Samoa,74.19
+174,San Marino,83.39
+175,Sao Tome and Principe,65.65
+176,Saudi Arabia,75.71
+177,Senegal,62.47
+178,Serbia,75.9
+179,Seychelles,75.17
+180,Sierra Leone,59.01
+181,Singapore,85.47
+182,Sint Maarten,78.47
+183,Slovakia,77.21
+184,Slovenia,78.5
+185,Solomon Islands,75.77
+186,Somalia,53.17
+187,South Africa,50.64
+188,South Korea,80.66
+189,Spain,81.83
+190,Sri Lanka,77.13
+191,Sudan,62.66
+192,Suriname,72.78
+193,Swaziland,52.56
+194,Sweden,81.76
+195,Switzerland,81.75
+196,Syria,76.22
+197,Taiwan,79.41
+198,Tajikistan,68.38
+199,Tanzania,54.43
+200,Thailand,75.15
+201,The Bahamas,72.86
+202,The Gambia,65.36
+203,Togo,65.8
+204,Tonga,76.64
+205,Trinidad and Tobago,73.39
+206,Tunisia,76.51
+207,Turkey,74.28
+208,Turkmenistan,70.68
+209,Turks and Caicos Islands,80.08
+210,Tuvalu,67.19
+211,U.S. Virgin Islands,80.26
+212,Uganda,54.7
+213,Ukraine,70.16
+214,United Arab Emirates,77.83
+215,United Kingdom,80.88
+216,United States of America,79.25
+217,Uruguay,77.55
+218,Uzbekistan,74.28
+219,Vanuatu,67.15
+220,Venezuela,74.98
+221,Vietnam,73.92
+222,Wallis and Futuna,79.96
+223,West Bank,76.54
+224,Western Sahara,63.77
+225,Yemen,66.24
+226,Zambia,53.74
+227,Zimbabwe,58.95
